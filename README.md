@@ -18,12 +18,12 @@ The dataset consisted of three large .csv files that were imported into a databa
 - Thursday, Friday, and Saturday generate the highest revenue ($1.79M, $1.82M, $1.85M, respectively) indicating that these days are critical for sales performance.
 - Sunday through Wednesday performance is fairly consistent, with Monday being the worst performer of the entire week ($1.72M).
 - Revenue more than doubled in 2022 ($10.23M) versus 2021 ($4.96M).
-- Average revenue by month was highest between March through October, peaking in September 2022 ($699.33)
+- Revenue by month was highest between March through October, peaking in September 2022 ($1M)
 - In both years, Summer accounted for the most revenue by season ($4.9M total)
   
 ### Profit
 - Profit also more than doubled in 2022 ($7.03M) versus 2021 ($3.42M).
-- Average profit by month was also highest between March through October, peaking in September 2022 ($480.70)
+- Average profit by month was also highest between March through October, peaking in September 2022 ($692K)
 
 ### Margins
 - Profit margin and service margin was 69% in both years.
@@ -34,7 +34,7 @@ The dataset consisted of three large .csv files that were imported into a databa
 - Upsell Premium Services: With a doubled customer base in 2022, there is a greater opportunity to upsell premium services or features. Introduce perks or promotions to increase the average revenue per customer or convert more customers to registered users.
 
 ## Dashboard
-The dashboard can be found in Power BI Public here. This dashboard enables users to filter by year, season, and customer segment and focuses on trends and values in profit and revenue.
+The dashboard can be found and downloaded in the repository files ("Bike Sales Dashboard.pbix). This dashboard enables users to filter by year, season, and customer segment and focuses on trends and values in profit and revenue.
 
 ![3  final dashboard](https://github.com/user-attachments/assets/d62a2abd-2acb-44ea-a213-a87c04393569)
 
